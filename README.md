@@ -3,20 +3,14 @@
 
 
 ## <h3 align="left">💫 About Me:</h3>
-🔭 I’m currently working on YantraYodha<br>👯 I’m looking to collaborate on Gurukul<br>🤝 I’m looking for help with Gallery<br>🌱 I’m currently learning React<br>💬 Ask me about Python, Javascript<br>
 - 🔭 I’m currently working on [YantraYodha (AIEM College Project Club)](https://yyaiem.github.io/yy/)
-
 - 🌱 I’m currently learning **React, Tailwind**
-
 - 👯 I’m looking to collaborate on [GuruKul (Latest free tech materials and courses,for Students)](https://yyaiem.github.io/gurukul/)
-
 - 👨‍💻 All of my projects are available at [https://trishul-a.github.io/pinaka/](https://trishul-a.github.io/pinaka/)
-
 - 💬 Ask me about **Python, JavaScript, React**
-
 - 📫 How to reach me **rakeshkund3355+githubrax@gmail.com**
 
-## <h3 align="left">📊 GitHub Stats:</h3> 
+## <h3 align="left">📊 GitHub Stats: </h3> 
 ![](https://github-readme-stats.vercel.app/api?username=rax-2&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rax-2&theme=neon&hide_border=true)
 <div align="center >
