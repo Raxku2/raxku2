@@ -19,13 +19,16 @@
 ## <h3 align="left">📊 GitHub Stats:</h3> 
 ![](https://github-readme-stats.vercel.app/api?username=rax-2&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rax-2&theme=neon&hide_border=true)
-<div align="center>
+<div align="center >
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rax-2&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rax-2&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ## <h3 align="left">🏆 GitHub Trophies: </h3>
+<div align="center > 
+  
 ![](https://github-profile-trophy.vercel.app/?username=rax-2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 ## <h3 align="left">🔝 Top Contributed Repo: </h3>
 ![](https://github-contributor-stats.vercel.app/api?username=rax-2&limit=5&theme=neon&combine_all_yearly_contributions=true)
