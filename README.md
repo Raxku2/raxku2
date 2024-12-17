@@ -27,7 +27,7 @@
 ## <h3 align="left">🏆 GitHub Trophies: </h3>
 <div align="center > 
   
-![](https://github-profile-trophy.vercel.app/?username=rax-2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+ ![](https://github-profile-trophy.vercel.app/?username=rax-2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
 ## <h3 align="left">🔝 Top Contributed Repo: </h3>
