@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="30px">, I'm Rakesh</h1>
-<h3 align="center">⚡ Electronics Enthusiast | 💻 Full-Stack Explorer | 🐧 Linux Power User | 🌐 IoT Innovator</h3>
+<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32px">, I'm Rakesh</h1>
+<h3 align="center"><img height="28px" src="https://media.tenor.com/umNL8sELi2kAAAAi/robot-joypixels.gif"> Electronics Enthusiast | 💻 Full-Stack Explorer | <img src="https://media.tenor.com/WTze0bfmYwAAAAAi/penguin-joypixels.gif" height="28px"> Linux Power User | 🌐 IoT Innovator</h3>
 
 
 ## <h3 align="left">💫 About Me:</h3>
