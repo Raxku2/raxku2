@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="30px">, I'm Rakesh</h1>
 <h3 align="center">⚡ Electronics Enthusiast | 💻 Full-Stack Explorer | 🐧 Linux Power User | 🌐 IoT Innovator</h3>
 
 
