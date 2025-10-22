@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32px">, I'm Rakesh</h1>
-<h3 align="center"><img height="28px" src="https://media.tenor.com/umNL8sELi2kAAAAi/robot-joypixels.gif"> Electronics Enthusiast | 💻 Full-Stack Explorer | <img src="https://media.tenor.com/WTze0bfmYwAAAAAi/penguin-joypixels.gif" height="28px"> Linux Power User | 🌐 IoT Innovator</h3>
+<h3 align="center"><img height="28px" src="https://media.tenor.com/umNL8sELi2kAAAAi/robot-joypixels.gif"> Electronics Enthusiast | <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" height="24px"> Full-Stack Explorer | <img src="https://media.tenor.com/WTze0bfmYwAAAAAi/penguin-joypixels.gif" height="28px"> Linux Power User | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" height="24px"> IoT Innovator</h3>
 
 
 <!-- ## <h3 align="left">💫 About Me:</h3> --> 
@@ -38,7 +38,7 @@
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" height="40" alt="CSS">
 </p>
 
-<h3>⚙️ Tech Stack</h3>
+<h3>Tech Stack</h3>
 <p align="left">
   <!-- Animated ones -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="40" alt="Python">
@@ -54,7 +54,7 @@
 
 
 
-## <h3 align="left">🌐 Socials</h3>
+## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" height="30px"> Socials</h3>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkdin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/stack) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x) 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Have+a+great+day!+🌟;Keep+Coding+and+Building!+💻" alt="Typing SVG" />
