@@ -56,52 +56,12 @@
 
 ## <h3 align="left">🌐 Socials</h3>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkdin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/stack) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x) 
-
----
-[![](https://visitcount.itsvg.in/api?id=rax-2&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Have+a+great+day!+🌟;Keep+Coding+and+Building!+💻" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" width="100%" height="120">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30">
-  <br><br>
-  <i>Made with ❤️ by <b>Your Name</b></i>
-  <br>
-  <img src="https://media.giphy.com/media/26BROrSHlmyzzHfVe/giphy.gif" width="100">
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling!;See+you+in+the+next+project!+🚀" alt="Typing SVG" />
-</p>
-
+</p> -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" />
 </p>
 
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="80" />
-</p>
 
