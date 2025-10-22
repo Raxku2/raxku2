@@ -14,8 +14,8 @@
 
 ## <h3 align="left"><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" height="28px"> GitHub Stats: </h3> 
 ![](https://github-readme-stats.vercel.app/api?username=raxku2&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=raxku2&theme=neon&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raxku2&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=raxku2&theme=neon&hide_border=true)
 
 
 ## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" height="24px"> GitHub Trophies: </h3>
