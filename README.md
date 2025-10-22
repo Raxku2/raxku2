@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32px">, I'm Rakesh</h1>
+<!-- <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32px">, I'm Rakesh</h1> -->
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" height="40px">, I'm Rakesh</h1>
 <h3 align="center"><img height="28px" src="https://media.tenor.com/umNL8sELi2kAAAAi/robot-joypixels.gif"> Electronics Enthusiast | <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" height="24px"> Full-Stack Explorer | <img src="https://media.tenor.com/WTze0bfmYwAAAAAi/penguin-joypixels.gif" height="28px"> Linux Power User | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" height="24px"> IoT Innovator</h3>
 
 
