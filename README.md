@@ -31,56 +31,41 @@
 </div>
 
 ## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> Languages and Tools:</h3>
-
-
-
 <p align="left">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="40" alt="Python">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJjMGU5b2UxYzNqcTZ5YmM1Y2ZzYXU2bnF2dmVwdXo5OHFlbmEwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hUL5gDLz6L7Ma/giphy.gif" height="40" alt="FastAPI">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="40" alt="React">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="40" alt="JavaScript">
-  <img src="https://media.giphy.com/media/CSYp9SL4x0xZa/giphy.gif" height="40" alt="PostgreSQL">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="40" alt="HTML">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" height="40" alt="CSS">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" alt="Python">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" height="60" alt="MongoDB">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
-<h3>Tech Stack</h3>
-<p align="left">
-  <!-- Animated ones -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="40" alt="Python">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="40" alt="React">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="40" alt="JavaScript">
-  
-  <!-- Static but crisp -->
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="Pandas">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="TailwindCSS">
-  <img src="https://raw.githubusercontent.com/gsap-community/GSAP_Logo/master/GSAP_Logo_Green.svg" height="40" alt="GSAP">
-</p>
 
 
 
 ## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" height="30px"> Socials</h3>
-<p align="center">
-  <a href="https://discord.gg/discord">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://facebook.com/facebook">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/insta">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/linkdin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/stack">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://x.com/x">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X (Twitter)"/>
-  </a>
-</p>
+
+<!-- <div align="right">
+  
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insta)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkdin)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/stack)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x)
+
+</div> -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/discord)
+
+
+</div>
+
+
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Have+a+great+day!+🌟;Keep+Coding+and+Building!+💻" alt="Typing SVG" />
