@@ -6,10 +6,10 @@
 <!-- ## <h3 align="left">💫 About Me:</h3> --> 
 ## <h3 align="left"> <img src="https://media.tenor.com/WoNaTdqSsskAAAAi/about.gif" height="28px"> </h3>
 
-- 🔭 I’m currently working on [YantraYodha (AIEM College Project Club)](https://yyaiem.github.io/yy/)
-- 🌱 I’m currently learning **React, Tailwind**
-- 👯 I’m looking to collaborate on [GuruKul (Latest free tech materials and courses,for Students)](https://yyaiem.github.io/gurukul/)
-- 👨‍💻 All of my projects are available at [https://trishul-a.github.io/pinaka/](https://trishul-a.github.io/pinaka/)
+- 🔭 I’m currently working on [Noob to Monstar Python course](https://github.com/Raxku2/Noob_to_Monstar_Python)
+- 👯 I’m looking to collaborate on [A Python Course created by me](https://github.com/Raxku2/Noob_to_Monstar_Python)
+- 👨‍💻 All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
+- 🌱 I’m currently learning **Rust Programmming Language**
 - 💬 Ask me about **Python, JavaScript, React**
 - <img src="https://media.tenor.com/LLw_QnML5v8AAAAi/adamjk-emojis.gif" height="20px"> How to reach me **rakeshkund3355+githubrax@gmail.com**
 
