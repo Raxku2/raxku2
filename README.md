@@ -14,13 +14,21 @@
 - <img src="https://media.tenor.com/LLw_QnML5v8AAAAi/adamjk-emojis.gif" height="20px"> How to reach me **rakeshkund3355+githubrax@gmail.com**
 
 ## <h3 align="left"><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" height="28px"> GitHub Stats: </h3> 
+<div align="right">
+  
 ![](https://github-readme-stats.vercel.app/api?username=raxku2&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raxku2&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raxku2&theme=neon&hide_border=true)
-
+</div>
 
 ## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" height="24px"> GitHub Trophies: </h3>
+<div align="center">
+  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raxku2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
 
 ## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" height="24px"> Top Contributed Repo: </h3>
@@ -52,6 +60,7 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" height="60" alt="Vite">
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" height="60" alt="GSAP">
   <img src="https://miro.medium.com/v2/1*mThPH_B2Ms7qG_nVySy3qA.gif" height="60" alt="Preact">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-icon-svg-download-png-283024.png" height="60" alt="Redux">
@@ -68,8 +77,11 @@
   ![BeautifulSoup](https://img.shields.io/badge/Python-BeautifulSoup-FF6B6B?logo=python)
   ![Rich](https://img.shields.io/badge/Python-Rich-D946EF?logo=python)
   ![Textual](https://img.shields.io/badge/Python-Textual-7C3AED?logo=python)
-
-
+  ![Base64](https://img.shields.io/badge/Python-base64-2563EB?logo=python)
+  ![Secrets](https://img.shields.io/badge/Python-secrets-10B981?logo=python)
+  ![NotifyPy](https://img.shields.io/badge/Python-notifyPy-FACC15?logo=python)
+  ![OS](https://img.shields.io/badge/Python-os-9333EA?logo=python)
+  ![Sys](https://img.shields.io/badge/Python-sys-E11D48?logo=python)
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
