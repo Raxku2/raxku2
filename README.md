@@ -50,6 +50,15 @@
 
 </div>
 
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" height="60" alt="GSAP">
+  <img src="https://miro.medium.com/v2/1*mThPH_B2Ms7qG_nVySy3qA.gif" height="60" alt="Preact">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-icon-svg-download-png-283024.png" height="60" alt="Redux">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
 
 
 
