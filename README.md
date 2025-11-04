@@ -58,6 +58,21 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  ![Argparse](https://img.shields.io/badge/Python-argparse-4B5563?logo=python)
+  ![Requests](https://img.shields.io/badge/Python-Requests-1E40AF?logo=python)
+  ![FastAPI](https://img.shields.io/badge/Python-FastAPI-009688?logo=fastapi)
+  ![FastAPI WebSocket](https://img.shields.io/badge/FastAPI-WebSocket-06B6D4?logo=fastapi)
+  ![BeautifulSoup](https://img.shields.io/badge/Python-BeautifulSoup-FF6B6B?logo=python)
+  ![Rich](https://img.shields.io/badge/Python-Rich-D946EF?logo=python)
+  ![Textual](https://img.shields.io/badge/Python-Textual-7C3AED?logo=python)
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
 
 
 
