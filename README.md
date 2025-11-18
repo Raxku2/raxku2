@@ -6,12 +6,16 @@
 <!-- ## <h3 align="left">💫 About Me:</h3> --> 
 ## <h3 align="left"> <img src="https://media.tenor.com/WoNaTdqSsskAAAAi/about.gif" height="28px"> </h3>
 
+<div>
+  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" height="20px"> I’m currently working on [Noob to Monstar Python course With YantraYodha Hardware and Coding club ](https://github.com/Raxku2/Noob_to_Monstar_Python)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" height="20px"> I’m looking to collaborate on [A Python Course created by me](https://github.com/Raxku2/Noob_to_Monstar_Python)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" height="20px"> All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Four%20Leaf%20Clover.webp" height="20px">  I’m currently learning **Rust Programmming Language**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Question%20Mark.webp" height="20px">  Ask me about **Python, JavaScript, React**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" height="20px"> How to reach me **rakeshkund3355+githubrax@gmail.com**
+</div>
+
 
 ## <h3 align="left"><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" height="28px"> GitHub Stats: </h3> 
 <div align="right">
@@ -33,10 +37,16 @@
 
 ## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" height="24px"> Top Contributed Repo: </h3>
 
+<div style="display:flex; align-items: flex-end;">
+<img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" align="left" >
+
 <div align="center">
-  
+
 ![](https://github-contributor-stats.vercel.app/api?username=raxku2&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 </div>
+</div>
+
 
 ## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> Languages and Tools:</h3>
 <div align="center">
@@ -103,77 +113,48 @@
 </div> -->
 
 <div align="center">
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
-
+-->
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/Instagram--red?style=social&logo=instagram)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.com/users/977144641629605958)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
-
-[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=0077B5&style=for-the-badge)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/-?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/-?logo=facebook&logoColor=1877F2&style=for-the-badge)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/-?logo=discord&logoColor=7289DA&style=for-the-badge)](https://discord.com/users/977144641629605958)
-
-<!-- LINKEDIN NEON -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00172D)](https://www.linkedin.com/in/Raxku2/)
-
-<!-- INSTAGRAM NEON -->
-[![Instagram](https://img.shields.io/badge/Instagram-E0006C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=320018)](https://instagram.com/raxku2)
-
-<!-- FACEBOOK NEON -->
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=00214D)](https://facebook.com/raxku2)
-
-<!-- DISCORD NEON -->
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1F4B)](https://discord.com/users/977144641629605958)
+-->
 
 
 
-[![LinkedIn](https://raw.githubusercontent.com/raxku2/badges/main/linkedin-gradient.svg)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://raw.githubusercontent.com/raxku2/badges/main/instagram-gradient.svg)](https://instagram.com/raxku2)
-[![Facebook](https://raw.githubusercontent.com/raxku2/badges/main/facebook-gradient.svg)](https://facebook.com/raxku2)
-[![Discord](https://raw.githubusercontent.com/raxku2/badges/main/discord-gradient.svg)](https://discord.com/users/977144641629605958)
-
-[![LinkedIn](https://raw.githubusercontent.com/raxku2/badges/main/linkedin-glass.svg)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://raw.githubusercontent.com/raxku2/badges/main/instagram-glass.svg)](https://instagram.com/raxku2)
-
-
-
-
-
-
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://linkedin.com/in/raxku2" style="text-decoration: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="100">
+    </a>
+    <a href="https://facebook.com/raxku2" style="text-decoration: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" height="100">
+    </a>
+    <a href="https://instagram.com/raxku2" style="text-decoration: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="100">
+    </a>
+    <a href="https://discord.com/users/977144641629605958" style="text-decoration: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="100">
+    </a>
+      <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0NzQ0MDMsIm5iZiI6MTc2MzQ3NDEwMywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE4VDEzNTUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4MWQxODMyYmQyZDk4YmY0YTczODdhNDcxMDZlYWUwMjU2ZTE0NDgxNjlmYjA3ZDYyOTA0ODgxNjdkMDM3NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U3Pr1Kx9ADoJy3n6_rq0Ac-NnW4gnf1vh-LeP6IrgEE" height="180" align="right">
+    <div align="right">
+    </div>
+  </div>
 
 </div>
-
 
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Have+a+great+day!+🌟;Keep+Coding+and+Building!+💻" alt="Typing SVG" />
 </p> -->
+
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" />
 </p>
