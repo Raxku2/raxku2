@@ -142,8 +142,6 @@
       <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="100">
     </a>
       <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0NzQ0MDMsIm5iZiI6MTc2MzQ3NDEwMywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE4VDEzNTUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4MWQxODMyYmQyZDk4YmY0YTczODdhNDcxMDZlYWUwMjU2ZTE0NDgxNjlmYjA3ZDYyOTA0ODgxNjdkMDM3NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U3Pr1Kx9ADoJy3n6_rq0Ac-NnW4gnf1vh-LeP6IrgEE" height="180" align="right">
-    <div align="right">
-    </div>
   </div>
 
 </div>
