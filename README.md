@@ -6,12 +6,12 @@
 <!-- ## <h3 align="left">💫 About Me:</h3> --> 
 ## <h3 align="left"> <img src="https://media.tenor.com/WoNaTdqSsskAAAAi/about.gif" height="28px"> </h3>
 
-- 🔭 I’m currently working on [Noob to Monstar Python course With YantraYodha Hardware and Coding club ](https://github.com/Raxku2/Noob_to_Monstar_Python)
-- 👯 I’m looking to collaborate on [A Python Course created by me](https://github.com/Raxku2/Noob_to_Monstar_Python)
-- 👨‍💻 All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
-- 🌱 I’m currently learning **Rust Programmming Language**
-- 💬 Ask me about **Python, JavaScript, React**
-- <img src="https://media.tenor.com/LLw_QnML5v8AAAAi/adamjk-emojis.gif" height="20px"> How to reach me **rakeshkund3355+githubrax@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" height="20px"> I’m currently working on [Noob to Monstar Python course With YantraYodha Hardware and Coding club ](https://github.com/Raxku2/Noob_to_Monstar_Python)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" height="20px"> I’m looking to collaborate on [A Python Course created by me](https://github.com/Raxku2/Noob_to_Monstar_Python)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" height="20px"> All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Four%20Leaf%20Clover.webp" height="20px">  I’m currently learning **Rust Programmming Language**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Question%20Mark.webp" height="20px">  Ask me about **Python, JavaScript, React**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" height="20px"> How to reach me **rakeshkund3355+githubrax@gmail.com**
 
 ## <h3 align="left"><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" height="28px"> GitHub Stats: </h3> 
 <div align="right">
