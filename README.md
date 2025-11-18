@@ -1,10 +1,12 @@
 <!-- <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32px">, I'm Rakesh</h1> -->
 <h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" height="40px">, I'm Rakesh</h1>
+
 <h3 align="center"><img height="28px" src="https://media.tenor.com/umNL8sELi2kAAAAi/robot-joypixels.gif"> Electronics Enthusiast | <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" height="24px"> Full-Stack Explorer | <img src="https://media.tenor.com/WTze0bfmYwAAAAAi/penguin-joypixels.gif" height="28px"> Linux Power User | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" height="24px"> IoT Innovator</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <!-- ## <h3 align="left">💫 About Me:</h3> --> 
-## <h3 align="left"> <img src="https://media.tenor.com/WoNaTdqSsskAAAAi/about.gif" height="28px"> </h3>
+<p align="left"> <img src="https://media.tenor.com/WoNaTdqSsskAAAAi/about.gif" height="28px"> </p>
 
 <div>
   
@@ -28,45 +30,46 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raxku2&theme=neon&hide_border=true)
 </div>
 
-## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" height="24px"> GitHub Trophies: </h3>
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" >
+</div>
+
+<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" height="24px"> GitHub Trophies: </h3>
 <div align="center">
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raxku2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
 
-## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" height="24px"> Top Contributed Repo: </h3>
+## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" height="24px"> Top Contributed Repo: 
 
 <div style="display:flex; align-items: flex-end;">
-<img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" align="left" >
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=raxku2&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" align="left" >
+  <div align="center">
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=raxku2&limit=5&theme=neon&combine_all_yearly_contributions=true)
+  </div>
 </div>
 
 
-## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> Languages and Tools:</h3>
-<div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" alt="Python">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" alt="JavaScript">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" height="60" alt="HTML">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" height="60" alt="CSS">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="60" alt="Bootstrap">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="60" alt="Nodejs">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="60" alt="React">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" height="60" alt="FireBase">
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" height="60" alt="Sublime">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="60" alt="VSCode">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="60" alt="GitHub">
-  <!-- <img src="" height="60" alt=""> -->
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" height="60" alt="MongoDB">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
+ ## <h3 align="left" style="border: none; border-bottom: none; border-top: none;"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> Languages and Tools:</h3>
+  <div align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" alt="Python">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" alt="JavaScript">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" height="60" alt="HTML">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" height="60" alt="CSS">
+    <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="60" alt="Bootstrap">
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="60" alt="Nodejs">
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="60" alt="React">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" height="60" alt="FireBase">
+    <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" height="60" alt="Sublime">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="60" alt="VSCode">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="60" alt="GitHub">
+    <!-- <img src="" height="60" alt=""> -->
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" height="60" alt="MongoDB">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -147,12 +150,9 @@
 </div>
 
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Have+a+great+day!+🌟;Keep+Coding+and+Building!+💻" alt="Typing SVG" />
-</p> -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="100%">
 
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" />
 </p>
