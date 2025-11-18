@@ -141,7 +141,7 @@
     <a href="https://discord.com/users/977144641629605958" style="text-decoration: none;">
       <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="100">
     </a>
-      <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" height="180" align="right">
+      <img src="https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" height="150" align="right">
   </div>
 
 </div>
