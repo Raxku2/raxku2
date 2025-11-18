@@ -10,12 +10,12 @@
 
 <div>
   
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" height="20px"> I’m currently working on [Noob to Monstar Python course With YantraYodha Hardware and Coding club ](https://github.com/Raxku2/Noob_to_Monstar_Python)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" height="20px"> I’m looking to collaborate on [A Python Course created by me](https://github.com/Raxku2/Noob_to_Monstar_Python)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" height="20px"> All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Four%20Leaf%20Clover.webp" height="20px">  I’m currently learning **Rust Programmming Language**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Question%20Mark.webp" height="20px">  Ask me about **Python, JavaScript, React**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" height="20px"> Reach me at **hlw.ku2+git@gmail.com**
+- <img src="https://em-content.zobj.net/source/telegram/386/telescope_1f52d.webp" height="20px"> I’m currently working on [Noob to Monstar Python course With YantraYodha Hardware and Coding club ](https://github.com/Raxku2/Noob_to_Monstar_Python)
+- <img src="https://em-content.zobj.net/source/telegram/386/handshake_1f91d.webp" height="20px"> I’m looking to collaborate on [A Python Course created by me](https://github.com/Raxku2/Noob_to_Monstar_Python)
+- <img src="https://em-content.zobj.net/source/telegram/386/man-technologist_1f468-200d-1f4bb.webp" height="20px"> All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
+- <img src="https://em-content.zobj.net/source/telegram/386/four-leaf-clover_1f340.webp" height="20px">  I’m currently learning **Rust Programmming Language**
+- <img src="https://em-content.zobj.net/source/telegram/386/question-mark_2753.webp" height="20px">  Ask me about **Python, JavaScript, React**
+- <img src="https://em-content.zobj.net/source/telegram/386/envelope_2709-fe0f.webp" height="20px"> Reach me at **hlw.ku2+git@gmail.com**
 </div>
 
 
