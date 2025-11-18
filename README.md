@@ -109,6 +109,63 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/Instagram--red?style=social&logo=instagram)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)](https://discord.com/users/977144641629605958)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
+
+[![LinkedIn](https://img.shields.io/badge/-?logo=linkedin&logoColor=0077B5&style=for-the-badge)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://img.shields.io/badge/-?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://instagram.com/raxku2)
+[![Facebook](https://img.shields.io/badge/-?logo=facebook&logoColor=1877F2&style=for-the-badge)](https://facebook.com/raxku2)
+[![Discord](https://img.shields.io/badge/-?logo=discord&logoColor=7289DA&style=for-the-badge)](https://discord.com/users/977144641629605958)
+
+<!-- LINKEDIN NEON -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00172D)](https://www.linkedin.com/in/Raxku2/)
+
+<!-- INSTAGRAM NEON -->
+[![Instagram](https://img.shields.io/badge/Instagram-E0006C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=320018)](https://instagram.com/raxku2)
+
+<!-- FACEBOOK NEON -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=00214D)](https://facebook.com/raxku2)
+
+<!-- DISCORD NEON -->
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1F4B)](https://discord.com/users/977144641629605958)
+
+
+
+[![LinkedIn](https://raw.githubusercontent.com/raxku2/badges/main/linkedin-gradient.svg)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://raw.githubusercontent.com/raxku2/badges/main/instagram-gradient.svg)](https://instagram.com/raxku2)
+[![Facebook](https://raw.githubusercontent.com/raxku2/badges/main/facebook-gradient.svg)](https://facebook.com/raxku2)
+[![Discord](https://raw.githubusercontent.com/raxku2/badges/main/discord-gradient.svg)](https://discord.com/users/977144641629605958)
+
+[![LinkedIn](https://raw.githubusercontent.com/raxku2/badges/main/linkedin-glass.svg)](https://www.linkedin.com/in/Raxku2/)
+[![Instagram](https://raw.githubusercontent.com/raxku2/badges/main/instagram-glass.svg)](https://instagram.com/raxku2)
+
+
+
+
+
+
 
 </div>
 
