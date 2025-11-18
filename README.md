@@ -15,7 +15,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" height="20px"> All of my projects are available at [My github repo](https://github.com/Raxku2?tab=repositories)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Four%20Leaf%20Clover.webp" height="20px">  I’m currently learning **Rust Programmming Language**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Question%20Mark.webp" height="20px">  Ask me about **Python, JavaScript, React**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" height="20px"> How to reach me **rakeshkund3355+githubrax@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" height="20px"> Reach me at **hlw.ku2+git@gmail.com**
 </div>
 
 
