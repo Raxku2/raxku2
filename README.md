@@ -102,7 +102,7 @@
 
 
 
-## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" height="30px"> Socials</h3>
+## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" height="30px"> Socials:</h3>
 
 <!-- <div align="right">
   
