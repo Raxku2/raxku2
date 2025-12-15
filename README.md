@@ -18,6 +18,7 @@
 - <img src="https://em-content.zobj.net/source/telegram/386/envelope_2709-fe0f.webp" height="20px"> Reach me at **hlw.ku2+git@gmail.com**
 </div>
 
+<!--
 
 ## <h3 align="left"><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" height="28px"> GitHub Stats: </h3> 
 <div align="right">
@@ -40,7 +41,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raxku2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
-
 ## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" height="24px"> Top Contributed Repo: 
 
 <div style="display:flex; align-items: flex-end;">
@@ -51,8 +51,9 @@
   </div>
 </div>
 
+-->
 
- ## <h3 align="left" style="border: none; border-bottom: none; border-top: none;"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> Languages and Tools:</h3>
+ ## <h3 align="left" style="border: none; border-bottom: none; border-top: none;"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> My Tool Box:</h3>
   <div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" alt="Python">
