@@ -78,6 +78,7 @@
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" height="60" alt="GSAP">
   <img src="https://miro.medium.com/v2/1*mThPH_B2Ms7qG_nVySy3qA.gif" height="60" alt="Preact">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-icon-svg-download-png-283024.png" height="60" alt="Redux">
+  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height="60" alt="Zustand">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
