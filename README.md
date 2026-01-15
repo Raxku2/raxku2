@@ -18,42 +18,11 @@
 - <img src="https://em-content.zobj.net/source/telegram/386/envelope_2709-fe0f.webp" height="20px"> Reach me at **hlw.ku2+git@gmail.com**
 </div>
 
-<!--
 
-## <h3 align="left"><img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" height="28px"> GitHub Stats: </h3> 
-<div align="right">
-  
-![](https://github-readme-stats.vercel.app/api?username=raxku2&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raxku2&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
-<div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=raxku2&theme=neon&hide_border=true)
-</div>
+## <h3 align="left" style="border: none; border-bottom: none; border-top: none;">
+  <img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> My Tool Box:
+  </h3>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" >
-</div>
-
-<h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" height="24px"> GitHub Trophies: </h3>
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raxku2&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-</div>
-
-## <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" height="24px"> Top Contributed Repo: 
-
-<div style="display:flex; align-items: flex-end;">
-  <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" align="left" >
-  <div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=raxku2&limit=5&theme=neon&combine_all_yearly_contributions=true)
-  </div>
-</div>
-
--->
-
- ## <h3 align="left" style="border: none; border-bottom: none; border-top: none;"><img src="https://www.emojiall.com/images/240/telegram/1f9f0.gif" height="30px"> My Tool Box:</h3>
   <div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" alt="Python">
@@ -101,37 +70,9 @@
 
 </div>
 
-
-
-
 ## <h3 align="left"><img src="https://www.emojiall.com/images/240/telegram/1f4f1.gif" height="30px"> Socials:</h3>
 
-<!-- <div align="right">
-  
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insta)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkdin)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/stack)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x)
-
-</div> -->
-
 <div align="center">
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
--->
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Raxku2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/raxku2)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/raxku2)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/977144641629605958)
--->
-
-
 
   <div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://linkedin.com/in/raxku2" style="text-decoration: none;">
