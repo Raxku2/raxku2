@@ -3,8 +3,8 @@
 
 <h3 align="center"><img height="28px" src="https://media.tenor.com/umNL8sELi2kAAAAi/robot-joypixels.gif"> Electronics Enthusiast | <img src="https://www.emojiall.com/images/240/telegram/1f4bb.gif" height="24px"> Full-Stack Explorer | <img src="https://media.tenor.com/WTze0bfmYwAAAAAi/penguin-joypixels.gif" height="28px"> Linux Power User | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" height="24px"> IoT Innovator</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
+---
 <!-- ## <h3 align="left">💫 About Me:</h3> --> 
 <p align="left"> <img src="https://media.tenor.com/WoNaTdqSsskAAAAi/about.gif" height="28px"> </p>
 
@@ -92,13 +92,15 @@
 
 </div>
 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">  -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="100%"> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="100%">
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" />
-</p>
+<p align="center" style="x:-10;">
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer" /> -->
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
+</p> 
 
 
 
