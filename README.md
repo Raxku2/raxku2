@@ -43,7 +43,7 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743" height="60" alt="Vite">
+  <img src="https://vite.dev/logo-without-border.svg" height="60" alt="Vite">
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" height="60" alt="GSAP">
   <img src="https://miro.medium.com/v2/1*mThPH_B2Ms7qG_nVySy3qA.gif" height="60" alt="Preact">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-icon-svg-download-png-283024.png" height="60" alt="Redux">
